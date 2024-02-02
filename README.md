@@ -11,6 +11,7 @@ This boilerplate contains the following key components:
 - **Vite**: A modern and fast build tool for JavaScript projects.
 - **React**: A JavaScript library for building user interfaces efficiently.
 - **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
+- **Fastify**: A lightweight and modern backend http framework
 
 ## Getting Started
 
@@ -30,7 +31,7 @@ This boilerplate contains the following key components:
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd vite-react-tailwind-boilerplate
+   cd frontend
    ```
 
 3. **Install Dependencies**:
@@ -55,3 +56,5 @@ This boilerplate contains the following key components:
 - **Vite Documentation**: [Vite Docs](https://vitejs.dev/guide/)
 - **React Documentation**: [React Docs](https://reactjs.org/docs/getting-started.html)
 - **Tailwind CSS Documentation**: [Tailwind Docs](https://tailwindcss.com/docs)
+
+GIT_SSH_COMMAND='ssh -i id_rsa_comptia -o IdentitiesOnly=yes' git push -u origin main
