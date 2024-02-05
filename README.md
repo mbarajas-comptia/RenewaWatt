@@ -45,16 +45,10 @@ This boilerplate contains the following key components:
    npm run dev
    ```
 
-## Features
-
-- **Vite**: Enjoy lightning-fast build times and instant module reloading.
-- **React**: Build complex interfaces with reusable components.
-- **Tailwind CSS**: Easily style your components with utility classes.
-
 ## Resources
 
 - **Vite Documentation**: [Vite Docs](https://vitejs.dev/guide/)
 - **React Documentation**: [React Docs](https://reactjs.org/docs/getting-started.html)
 - **Tailwind CSS Documentation**: [Tailwind Docs](https://tailwindcss.com/docs)
-
-GIT_SSH_COMMAND='ssh -i id_rsa_comptia -o IdentitiesOnly=yes' git push -u origin main
+- **Fastify Documentation**: [Docs](https://fastify.dev/docs/latest/)
+  GIT_SSH_COMMAND='ssh -i id_rsa_comptia -o IdentitiesOnly=yes' git push -u origin main
