@@ -18,7 +18,6 @@ This boilerplate contains the following key components:
 ### Prerequisites
 
 - Node.js version 20 or newer
-- Basic understanding of HTML, CSS, and JavaScript
 
 ### Installation
 
