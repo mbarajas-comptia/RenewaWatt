@@ -1,8 +1,8 @@
-# Vite + React + Tailwind CSS Boilerplate - README
+# React + Tailwind CSS + Fastify - README
 
 ## Introduction
 
-Welcome to the Vite, React, and Tailwind CSS Boilerplate Project! This project is designed as a starter kit for building fast and efficient web applications using Vite, React, and Tailwind CSS. It is tailored for learners at CompTIA, especially those new to full-stack web development. Our aim is to provide a clear, accessible, and practical foundation for building modern web applications.
+Welcome to our Boilerplate Project! This project is designed as a starter kit for building fast and efficient web applications using JavaScript as both a frontend and backend.
 
 ## Project Structure
 
