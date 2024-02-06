@@ -38,6 +38,12 @@ Both repos feature live-reload and will update automatically as you save your fi
    cd frontend
    ```
 
+   or
+
+   ```bash
+   cd backend
+   ```
+
 3. **Install Dependencies**:
 
    ```bash
@@ -46,7 +52,7 @@ Both repos feature live-reload and will update automatically as you save your fi
 
 4. **Start the Development Server**:
    ```bash
-   npm run dev
+   npm start
    ```
 
 ## Resources
