@@ -13,6 +13,11 @@ This boilerplate contains the following key components:
 - **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
 - **Fastify**: A lightweight and modern backend http framework
 
+**frontend** Contains the vite + React template, which can be started using `npm start` command
+**backend** Is a simple fastify webserver, which can be started using `npm start` command
+
+Both repos feature live-reload and will update automatically as you save your files.
+
 ## Getting Started
 
 ### Prerequisites
