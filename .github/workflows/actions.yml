@@ -2,9 +2,9 @@ name: Build and Test
 
 on:
   push:
-    branches: [main]  # Trigger on pushes to the main branch
+    branches: [main] # Trigger on pushes to the main branch
   pull_request:
-    branches: [main]  # Trigger on pull requests targeting the main branch
+    branches: [main] # Trigger on pull requests targeting the main branch
 
 jobs:
   build-and-test:
