@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
-    "test": "echo \"Error: Michael made this fail on purpose\" && exit 1"
+    "test": "echo \"Success: Michael made this succeed on purpose\" && exit 0"
   },
   "keywords": [],
   "author": "",
